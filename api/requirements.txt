@@ -2,7 +2,6 @@ setuptools
 wheel
 fastapi
 uvicorn
-sentence-transformers
 chromadb
 pdfplumber
 requests
