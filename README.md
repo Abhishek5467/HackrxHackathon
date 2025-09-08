@@ -16,8 +16,7 @@ license: mit
 REST API for answering questions from policy documents using Gemma LLM + Vector Search RAG pipeline.
 
 ## 🚀 Live Demo
-- **API Endpoint**: `https://your-username-hackrx-llm-api.hf.space/hackrx/run`
-- **Health Check**: `https://your-username-hackrx-llm-api.hf.space/health`
+- **API Endpoint**: `https://huggingface.co/spaces/abhishek5701/hackrx-llm-api`
 
 ## 🔧 Key Features
 - **LLM**: Google Gemma-2B-IT (via HuggingFace Inference API)
